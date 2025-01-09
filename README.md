@@ -4,4 +4,3 @@
 
 - <b>Microsoft Azure</b>
   - [How to Remote Desktop to Azure VMs](https://github.com/JesseKirk00/How-to-Use-Remote-Desktop-Within-Azure-VMs)
-  - [Group Policy And Managing Accounts](https://github.com/JesseKirk00/group-policy-and-managing-accounts)
