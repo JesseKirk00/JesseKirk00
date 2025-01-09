@@ -3,5 +3,5 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/JesseKirk00/configure-ad)
+  - [How To Use Remote Desktop Within Azure VMs](https://github.com/JesseKirk00/how-to-use-remote-desktop-within-azure-vms)
   - [Group Policy And Managing Accounts](https://github.com/JesseKirk00/group-policy-and-managing-accounts)
